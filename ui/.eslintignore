@@ -3,4 +3,6 @@ node_modules
 .git
 .cache
 src/utils/defaults.js
+src/utils/constants.js
+src/utils/fetch-websocket.js
 dappConstants.js

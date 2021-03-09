@@ -128,10 +128,10 @@
     "@agoric/store" "^0.2.0"
     "@agoric/weak-store" "^0.0.8"
 
-"@agoric/eslint-config@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@agoric/eslint-config/-/eslint-config-0.1.1.tgz#27af94c446d57c76d912e3c14b833f77760684ef"
-  integrity sha512-dSn2uM1OcmPHY8J3/x2Ctlr9rQfwxzMmOCAr98I2U0I7/tzu9dL1d/n/AY/xT+NgngGobxTR0W48nkkvd5/Fsw==
+"@agoric/eslint-config@*":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@agoric/eslint-config/-/eslint-config-0.2.1.tgz#e18d548fbf2d41ed6dce0303402ffed82b4973ba"
+  integrity sha512-0VJdY28OA1q57QnZHPUlmKO3aMe0MAIoYimwvpr2W5PViq5eZQb9CclpMD6Bliosn54Js0S5CCA1V8VBJfIrPA==
 
 "@agoric/evaluate@^2.1.3":
   version "2.2.6"
